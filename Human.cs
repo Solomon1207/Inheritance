@@ -54,13 +54,6 @@ namespace Inheritance
         {
             Console.WriteLine("Human is dieng");
         }
-        public  void askdjl()
-        {
-            Console.WriteLine("Human is dieng");
-        }
-        public  void asdasd()
-        {
-            Console.WriteLine("Human is dieng");
-        }
+      
     }
 }
